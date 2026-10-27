@@ -107,6 +107,12 @@ const PROJECTS = [
     tags: ["Python", "Anthropic SDK", "Agents"],
     link: "https://github.com/aswinsuk1711",
   },
+  {
+    name: "trustdesk.jar",
+    desc: "Trust & safety ticketing platform for fraud detection and case management workflows.",
+    tags: ["Java", "Spring Boot", "PostgreSQL", "REST"],
+    link: "https://github.com/aswinsuk1711/trustdesk",
+  },
 ];
 
 const HELP_TEXT = [
