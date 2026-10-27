@@ -108,9 +108,9 @@ const PROJECTS = [
     link: "https://github.com/aswinsuk1711",
   },
   {
-    name: "trustdesk.jar",
-    desc: "Trust & safety ticketing platform for fraud detection and case management workflows.",
-    tags: ["Java", "Spring Boot", "PostgreSQL", "REST"],
+    name: "trustdesk/",
+    desc: "AI support operations agent — FastAPI triage, TF-IDF retrieval, approval-gated tools, eval harness.",
+    tags: ["Python", "FastAPI", "PostgreSQL", "React", "TF-IDF", "LangChain"],
     link: "https://github.com/aswinsuk1711/trustdesk",
   },
 ];
